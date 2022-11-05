@@ -1,0 +1,10 @@
+directories:
+  output: dist
+  buildResources: build
+appId: ELECTRON4PHPv1
+asar: true
+win:
+  target: portable
+  icon: build/logo.ico
+files: []
+electronVersion: 1.8.8
